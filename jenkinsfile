@@ -1,0 +1,5 @@
+node{
+    stage branch1{
+        bat "dir"
+    }
+}
